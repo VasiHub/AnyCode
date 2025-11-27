@@ -1,4 +1,4 @@
-#2 -> 6 step by step
+#Array System 2 -> 6 step by step
 def arr_change6(arr):
  new_arr = []
  for i_bin in arr:

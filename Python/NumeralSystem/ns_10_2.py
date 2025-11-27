@@ -1,4 +1,4 @@
-# Float array 10 -> 2 system
+# Input array with floating point 10 -> 2 system
 def dec_to_bin(in_arr): 
     new_arr = [] 
     for num in in_arr: 
