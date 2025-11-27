@@ -1,4 +1,4 @@
-#System 7->3
+# Array System 7->3
 def arr_change3(arr):
  new_arr = []
  for i_bin in arr:

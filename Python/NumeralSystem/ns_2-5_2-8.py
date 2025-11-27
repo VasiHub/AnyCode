@@ -1,4 +1,4 @@
-#System 2->5   and   2->8
+#Array System 2->5   and   2->8
 def arr_change5(arr):
  new_arr = []
  for i_bin in arr:
