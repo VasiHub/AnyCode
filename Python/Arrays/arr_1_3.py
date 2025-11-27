@@ -40,8 +40,7 @@ n=int(input("Entering the number of array elements, N= "))
 my_array = []
 for i in range(n): 
     num = int(input(f"Enter an integer array element, index {i} : "))
-    my_array.append(num)
-#"""    
+    my_array.append(num)  
 
 print("Source array:", my_array)
 print("Product of positive array elements : ", pro_pos_elem(my_array))
