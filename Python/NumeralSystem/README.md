@@ -1,5 +1,3 @@
 Converting an array of numbers from one number system to another.
-10->2
-2->5
-2->8
-and etc...
+
+10->2   2->5   2->8 and etc...
