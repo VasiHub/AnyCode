@@ -4,4 +4,4 @@ Clipper
 Clarion
 
 Remnants, pieces, fragments of code from the late 90s, early 2000s...<br>
-Nostalgia)))
+Nostalgia. Although I don't remember at all what happens.)))
