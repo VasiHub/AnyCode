@@ -2,9 +2,11 @@
 Program Description
 
 Title: Go-based Server IP Address and Port Sorting Utility.
+
 Description:
 This program is designed for efficient processing and sorting of text-based log files or lists containing network sockets formatted as IP:port.
 It reads data from an input.txt file, orders the entries, and writes the sorted output to output.txt.
+
 Key Features & Workflow:
 • Line-by-Line Reading (bufio.Scanner): The program is optimized for processing large files because it reads data line by line, preventing high RAM consumption.
 • Regex-based Parsing (regexp): It utilizes regular expressions to isolate valid IPv4 addresses and their corresponding port numbers from each line.
